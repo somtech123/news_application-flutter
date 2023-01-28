@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "197832492293",
+    "project_id": "news-app-5ed5a",
+    "storage_bucket": "news-app-5ed5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197832492293:android:42ec0e83959f3fb6d0e36c",
+        "android_client_info": {
+          "package_name": "com.somtech.news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197832492293-7nbjpm0ejcfr7q8fqi37p12odtmtraik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDS1zJLSkjpPFY1VUoQZangrIjss2uXeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197832492293-7nbjpm0ejcfr7q8fqi37p12odtmtraik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
