@@ -1,6 +1,6 @@
-# news_app
+## news_app
 
-A new Flutter project.
+A new Flutter project thats get newsheadline from news.org api.
 
 ## Getting Started
 
